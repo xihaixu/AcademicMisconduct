@@ -1,8 +1,8 @@
 # AcademicMisconduct
 The Comment Data of Academic Misconduct in Weibo
 # 数据说明
-1.包含了四个典型事件的评论数据。
-2.数据包含以下字段：
+## 1.包含了四个典型事件的评论数据。
+## 2.数据包含以下字段：
 id：微博的ID
 wb_time：微博发布时间
 wb_content：微博内容
